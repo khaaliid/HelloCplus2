@@ -1,0 +1,1 @@
+This is a helloworld project for a c++ app to test the Azure pipeline with C++ ;)
